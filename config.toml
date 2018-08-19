@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Technophile Blog"
 theme = "beautifulhugo"
 subtitle = "Sharing stories and knowledge about my tech ventures"
+googleAnalytics = "UA-124224386-1"
 
 [[main.menu]]
   name = "Home"
