@@ -2,6 +2,7 @@ baseURL = "https://ratnadeep007.github.io/"
 languageCode = "en-us"
 title = "Technophile Blog"
 theme = "beautifulhugo"
+subtitle = "Sharing stories and knowledge about my tech ventures"
 
 [[main.menu]]
   name = "Home"
