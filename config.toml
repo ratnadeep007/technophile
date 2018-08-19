@@ -1,0 +1,30 @@
+# baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Technophile Blog"
+theme = "beautifulhugo"
+
+[[main.menu]]
+  name = "Home"
+  weight = 10
+  idetifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  idetifier = "tags"
+  url = "/tags/"
+
+[params]
+  ReadingTime=true
+  socialShare=true
+  subtitle="Code, Build, Deploy"
+
+[Author]
+  name="Ratnadeep Bhattacharyya"
+  email="ratnadeepronnie@gmail.com"
+  facebook="Ratnadeepthehacker"
+  github="ratndaeep007"
+  gitlab="ratnadeep007"
+  linkedin="ratna2301"
+  instagram="b.ratna.deep"
