@@ -5,6 +5,8 @@ draft: false
 tags: ["opensource", "web development", "frontend", "backend"]
 ---
 
+Part 1 of my what I like in opensource and opensouce technologies I work with.
+
 As being a technophile, Opensource is like oxygen in tech field for me. Opensource plays a major role for being a technophile I am today and without opensource I may not be what I am. Thanks to gaints for releasing there tools and softwares as opensource.
 
 > open-source *(noun)* denoting software for which the original source code is made freely available and may be redistributed and modified.
